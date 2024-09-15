@@ -1,0 +1,20 @@
+{
+    "name": "shell-emulator",
+    "version": "1.0.0",
+    "description": "A shell emulator for UNIX-like systems implemented in Node.js",
+    "main": "src/emulator.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "adm-zip": "^0.5.16",
+        "fs-extra": "^11.2.0",
+        "path": "^0.12.7",
+        "yargs": "^17.7.2"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
