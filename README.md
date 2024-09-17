@@ -33,7 +33,7 @@ npm install yargs adm-zip fs-extrapath jest
 ![image](https://github.com/user-attachments/assets/adf75e43-dc7b-46ed-802f-74077a43b9f6)  
 *4. Для запуска проекта запускаем командную строку, переходим в папку с эмулятором и используем команду*
 <pre>
-    <kbd>Ctrl</kbd>+<kbd>R</kbd> - Вызов командной строки Windows.
+    <kbd>Ctrl</kbd>+<kbd>R</kbd> cmd - Вызов командной строки Windows.
 </pre> 
 ```html
 node src/emulator.js --config=./config.json
