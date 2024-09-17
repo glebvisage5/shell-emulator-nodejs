@@ -32,6 +32,9 @@ npm install yargs adm-zip fs-extrapath jest
 *3. Скачать проект на рабочий стол, должна получится такая иерархия:*  
 ![image](https://github.com/user-attachments/assets/adf75e43-dc7b-46ed-802f-74077a43b9f6)  
 *4. Для запуска проекта запускаем командную строку, переходим в папку с эмулятором и используем команду*
+<pre>
+    <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Esc</kbd> - Вызов диспетчера задач.
+</pre> 
 ```html
 node src/emulator.js --config=./config.json
 ```
