@@ -36,7 +36,7 @@ npm install yargs adm-zip fs-extrapath jest
 node src/emulator.js --config=./config.json
 ```
 ![image](https://github.com/user-attachments/assets/fea97cb9-a224-4eef-8ca2-7ba33a234ee9)  
-*5. Вуаля можем пользоваться командами cd ls exit clear chmod find*  
+*5. Вуаля можем пользоваться командами `cd ls exit clear chmod find`*  
 ![image](https://github.com/user-attachments/assets/6397abfb-65f4-485d-a7b6-ea402d0b0926)  
 *6. Для запуска тестов прописываем команду*
 ```html
