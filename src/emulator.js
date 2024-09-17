@@ -14,7 +14,7 @@ const loadConfig = () => {
 
 const loadVirtualFs = (zipPath) => {
   fs.ensureDirSync('../virtual_fs');
-  fs.emptyDirSync('../virtual_fs'); // Убедитесь, что папка пуста перед извлечением
+  fs.emptyDirSync('../virtual_fs');
 
   const zip = new AdmZip(zipPath);
   zip.extractAllTo('../virtual_fs', true);
@@ -47,7 +47,6 @@ const cd = (dir) => {
   let current = virtualFs;
   for (const part of dirParts) {
     if (part === '..') {
-      // Handle moving up directories
       currentDir = path.dirname(currentDir);
     } else if (current[part]) {
       current = current[part];
@@ -63,7 +62,6 @@ const clear = () => {
 };
 
 const chmod = (permissions, filePath) => {
-  // Dummy function since real permissions management isn't implemented
   console.log(`Changing permissions of ${filePath} to ${permissions}`);
 };
 
