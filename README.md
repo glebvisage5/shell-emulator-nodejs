@@ -1,5 +1,19 @@
 # Привет! Я Глеб. 
 ### Предоставляю домашнюю работу №1 по конфигурационному управлению. ![](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)  
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
 **Задание**  
 Разработать эмулятор для языка оболочки ОС. Необходимо сделать работу  
 *эмулятора как можно более похожей на сеанс shell в UNIX-подобной ОС.*  
