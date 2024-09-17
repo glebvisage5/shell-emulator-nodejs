@@ -1,7 +1,7 @@
 # Привет! Я Глеб. :wave:  
 ### Предоставляю домашнюю работу №1 по конфигурационному управлению. :computer:  
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 **Задание**  
 Разработать эмулятор для языка оболочки ОС. Необходимо сделать работу  
 *эмулятора как можно более похожей на сеанс shell в UNIX-подобной ОС.*  
