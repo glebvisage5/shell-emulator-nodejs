@@ -21,6 +21,8 @@
 *1. Создать проект и установить библиотеки npm install*  
 ![image](https://github.com/user-attachments/assets/3d19ea5f-7fed-4d1c-92ae-dfed42d16d6f)  
 *2. Установить нужные пакеты:* ```html
+<h2>Example of code</h2>
+
 <pre>
     <div class="container">
         <div class="block two first">
