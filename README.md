@@ -1,6 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 # Привет! Я Глеб. :wave:  
 ### Предоставляю домашнюю работу №1 по конфигурационному управлению. :computer:  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 **Задание**  
 Разработать эмулятор для языка оболочки ОС. Необходимо сделать работу  
 *эмулятора как можно более похожей на сеанс shell в UNIX-подобной ОС.*  
