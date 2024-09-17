@@ -21,8 +21,6 @@
 *1. Создать проект и установить библиотеки npm install*  
 ![image](https://github.com/user-attachments/assets/3d19ea5f-7fed-4d1c-92ae-dfed42d16d6f)  
 *2. Установить нужные пакеты:* ```html
-npm install yargs adm-zip fs-extra path jest
-
 <pre>
     <div class="container">
         <div class="block two first">
@@ -33,8 +31,7 @@ npm install yargs adm-zip fs-extra path jest
         </div>
     </div>
 </pre>
-```  ```html
-npm install yargs adm-zip fs-extra path jest```*  
+```
 ![image](https://github.com/user-attachments/assets/7993ea3d-0cab-4bf8-bbc6-f35505882870)  
 *3. Скачать проект на рабочий стол, должна получится такая иерархия:*  
 ![image](https://github.com/user-attachments/assets/adf75e43-dc7b-46ed-802f-74077a43b9f6)  
