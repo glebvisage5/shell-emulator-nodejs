@@ -30,10 +30,15 @@ npm install yargs adm-zip fs-extrapath jest
 ![image](https://github.com/user-attachments/assets/7993ea3d-0cab-4bf8-bbc6-f35505882870)  
 *3. Скачать проект на рабочий стол, должна получится такая иерархия:*  
 ![image](https://github.com/user-attachments/assets/adf75e43-dc7b-46ed-802f-74077a43b9f6)  
-*4. Для запуска проекта запускаем командную строку, переходим в папку с эмулятором и используем команду node src/emulator.js --config=./config.json*  
+*4. Для запуска проекта запускаем командную строку, переходим в папку с эмулятором и используем команду*
+```html
+node src/emulator.js --config=./config.json
+```
 ![image](https://github.com/user-attachments/assets/fea97cb9-a224-4eef-8ca2-7ba33a234ee9)  
 *5. Вуаля можем пользоваться командами cd ls exit clear chmod find*  
-
 ![image](https://github.com/user-attachments/assets/6397abfb-65f4-485d-a7b6-ea402d0b0926)  
-*6. Для запуска тестов прописываем команду npm test*  
+*6. Для запуска тестов прописываем команду*
+```html
+npm test
+```
 ![image](https://github.com/user-attachments/assets/81acc940-e06b-4a14-8497-2a5de7a736cb)  
