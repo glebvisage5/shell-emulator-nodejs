@@ -18,17 +18,14 @@
 *поддерживаемых команд необходимо написать 3 теста.*  
 **Выполнение**  
 *1. Создать проект и установить библиотеки npm install*  
+![image](https://github.com/user-attachments/assets/3d19ea5f-7fed-4d1c-92ae-dfed42d16d6f)  
 *2. Установить нужные пакеты: npm install yargs adm-zip fs-extra path jest*  
+![image](https://github.com/user-attachments/assets/7993ea3d-0cab-4bf8-bbc6-f35505882870)  
 *3. Скачать проект на рабочий стол, должна получится такая иерархия:*  
-*/shell-emulator*  
-  */src*  
-    *emulator.js*  
-    *fsUtils.js*  
-  */test*  
-    *emulator.test.js*  
-  *config.json*  
-  *package-lock.json*  
-  *package.json*  
+![image](https://github.com/user-attachments/assets/adf75e43-dc7b-46ed-802f-74077a43b9f6)  
 *4. Для запуска проекта запускаем командную строку, переходим в папку с эмулятором и используем команду node src/emulator.js --config=./config.json*  
+![image](https://github.com/user-attachments/assets/fea97cb9-a224-4eef-8ca2-7ba33a234ee9)  
 *5. Вуаля можем пользоваться командами cd ls exit clear chmod find*  
+![image](https://github.com/user-attachments/assets/6397abfb-65f4-485d-a7b6-ea402d0b0926)  
 *6. Для запуска тестов прописываем команду npm test*  
+![image](https://github.com/user-attachments/assets/81acc940-e06b-4a14-8497-2a5de7a736cb)  
